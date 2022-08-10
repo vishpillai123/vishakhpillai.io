@@ -4,7 +4,10 @@
 
 ### Category Name 1 
 
-[Leopard Re-Identification](/sample_page)
+[Leopard Re-Identification](https://github.com/UC-Berkeley-I-School/Animal_Identification)
+[Github]
+[Project Website]
+[Paper]
 <img src="images/nlp.png?raw=true"/>
 
 ---
