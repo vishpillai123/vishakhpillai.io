@@ -4,15 +4,19 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Leopard Re-Identification](/sample_page)
 <img src="images/nlp.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Automated Essay Scoring](/pdf/sample_presentation.pdf)
+<img src="images/nlp.png?raw=true"/>
+
+---
+[Forest Cover Prediction](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[COVID Regression Modeling](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
