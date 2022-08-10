@@ -4,8 +4,7 @@
 
 ### Category Name 1 
 
-[Leopard Re-Identification](https://github.com/UC-Berkeley-I-School/Animal_Identification)
-[Website] (https://leopardspotting.com/)
+[Leopard Re-Identification](https://github.com/UC-Berkeley-I-School/Animal_Identification) [Website] (https://leopardspotting.com)
 [Paper]
 <img src="images/nlp.png?raw=true"/>
 
