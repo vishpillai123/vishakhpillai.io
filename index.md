@@ -21,7 +21,19 @@ Project scope is to automate tracking animal populations and poaching in the wil
 ### Automated Essay Scoring
 [Github](https://github.com/vishpillai123/w266_aes) | <a href="https://github.com/vishpillai123/w266_aes/blob/main/A%20Two-stage%20Deep%20Neural%20Network%20for%20Automated%20Essay%20Scoring.pdf"> Paper</a>
 
-<img src="images/nlp.png?raw=true"/>
+#### Problem Statement
+Currently, the assessment of essays is extremely time consuming and expensive as teachers spend hours on grading essays individually. Automated essay scoring (AES) can help to increase time efficiency, while also reducing cost and potential grading biases.
+
+Our project aims to develop AES by using BERT base and BERT-LSTM models to observe whether an RNN layer is needed for an effective two-stage learning framework.
+
+
+<img src="images/aes.png?raw=true"/>
+
+#### Methodology
+<img src="images/aes_methodology.PNG?raw=true"/>
+
+#### Results
+<img src="images/aes_results.PNG?raw=true"/>
 
 ---
 
