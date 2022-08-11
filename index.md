@@ -3,7 +3,7 @@
 ---
 
 ### Leopard Re-Identification
-[Github](https://github.com/UC-Berkeley-I-School/Animal_Identification) | <a href="https://www.leopardspotting.com/"> Website</a> 
+[Github](https://github.com/UC-Berkeley-I-School/Animal_Identification) | <a href="https://www.leopardspotting.com/"> Website</a> | | <a href="https://drive.google.com/file/d/1rc2KwmqQQ2cZCliXXOgD8idwS8myBuWY/view"> Paper</a> 
 
 <img src="images/nlp.png?raw=true"/>
 
