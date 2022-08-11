@@ -30,6 +30,7 @@ Project scope is to automate tracking animal populations and poaching in the wil
 
 #### Problem Statement
 Natural resource managers need to predict how climate change will affect the composition of tree communities and the functionality of ecosystems. Forest dynamics such as tree species, age composition, and other ecosystem attributes can be studied to understand environmental disturbances and management activities.  
+
 Given a dataset of 15,120 training samples and 565,892 test samples, predict the forest cover type (out of 7 classes) for 30x30m2 sections of land based on 54 attributes (ex. elevation, area, soil type, distance to water, aspect, etc.). 
 
 <img src="images/fc.png?raw=true"/>
