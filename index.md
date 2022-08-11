@@ -7,6 +7,7 @@
 
 #### Problem Statement
 Project scope is to automate tracking animal populations and poaching in the wild. Utilizing deep learning techniques, we want to understand whether it is possible to achieve a manual survey accuracy (79%) for leopards. We will identify leopards based on distinctive features and flag untracked or out of distribution leopards in an unsupervised setting.
+
 <img src="images/leop.png?raw=true"/>
 
 #### Methodology
@@ -14,6 +15,7 @@ Project scope is to automate tracking animal populations and poaching in the wil
 
 #### Results
 <img src="images/leop_results.PNG?raw=true"/>
+
 ---
 
 ### Automated Essay Scoring
@@ -29,7 +31,7 @@ Project scope is to automate tracking animal populations and poaching in the wil
 
 ---
 
-## COVID Regression Modeling
+### COVID Regression Modeling
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
