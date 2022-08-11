@@ -33,7 +33,7 @@ Our project aims to develop AES by using BERT base and BERT-LSTM models to obser
 <img src="images/aes_methodology.PNG?raw=true"/>
 
 #### Results
-<img src="images/aes_results.PNG?raw=true"/>
+<img src="images/aes_results.png?raw=true"/>
 
 ---
 
