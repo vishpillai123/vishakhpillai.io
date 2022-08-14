@@ -61,11 +61,12 @@ Given a dataset of 15,120 training samples and 565,892 test samples, predict the
 
 #### Problem Statement
 
+In November 2020, our statistics team attempted to model and understand the spread of the global covid-19 pandemic. Utilizing a dataset of the 50 states in the US, we wanted to develop a regression outlining part of the causal chain of virus spread and casaulties. Though the correlation between cases and deaths was undeniable, the lack of data for ICU capacity, healthcare access, and general population health contributed to the difficulty of studying deaths. Thus, we developed a regression to outline the predictors for cases across the states.
 
-<img src="images/covid_map.jpg?raw=true"/>
+<img src="images/covid_map.png?raw=true"/>
 
 #### Methodology
-<img src="images/many_regression_xy.jpg?raw=true"/>
+<img src="images/many_regression_xy.png?raw=true"/>
 
 #### Results
 <img src="images/min_pop_xy.jpg?raw=true"/>
