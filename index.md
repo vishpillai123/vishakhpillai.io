@@ -59,6 +59,18 @@ Given a dataset of 15,120 training samples and 565,892 test samples, predict the
 <a href="pdfs/W203.3_Lab 2_Pillai_ScopetaRodrigues_Lurquin.pdf"> Paper</a>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+#### Problem Statement
+
+
+<img src="images/covid_map.jpg?raw=true"/>
+
+#### Methodology
+<img src="images/many_regression_xy.jpg?raw=true"/>
+
+#### Results
+<img src="images/min_pop_xy.jpg?raw=true"/>
+<img src="images/final_eq.jpg?raw=true"/>
+
 ---
 
 
