@@ -57,7 +57,6 @@ Given a dataset of 15,120 training samples and 565,892 test samples, predict the
 
 ### COVID Regression Modeling
 <a href="pdfs/W203.3_Lab 2_Pillai_ScopetaRodrigues_Lurquin.pdf"> Paper</a>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 #### Problem Statement
 
