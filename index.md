@@ -38,7 +38,7 @@ Our project aims to develop AES by using BERT base and BERT-LSTM models to obser
 ---
 
 ### Forest Cover Prediction
-<a href="https://github.com/vishpillai123/w207_final_project_bwp"> Github</a> |  <a href="https://github.com/vishpillai123/w266_aes/blob/main/A%20Two-stage%20Deep%20Neural%20Network%20for%20Automated%20Essay%20Scoring.pdf"> Presentation</a>
+<a href="https://github.com/vishpillai123/w207_final_project_bwp"> Github</a> |  <a href="https://docs.google.com/presentation/d/1klo51vk3mqWeEWL_n4Mk5A6Ugdcz_W--Bsz37IYno78/edit?usp=sharing"> Presentation</a>
 
 #### Problem Statement
 Natural resource managers need to predict how climate change will affect the composition of tree communities and the functionality of ecosystems. Forest dynamics such as tree species, age composition, and other ecosystem attributes can be studied to understand environmental disturbances and management activities.  
