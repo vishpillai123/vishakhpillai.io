@@ -6,7 +6,7 @@
 [Github](https://github.com/UC-Berkeley-I-School/Animal_Identification) | <a href="https://www.leopardspotting.com/"> Website</a> | <a href="https://drive.google.com/file/d/1rc2KwmqQQ2cZCliXXOgD8idwS8myBuWY/view"> Paper</a> 
 
 #### Problem Statement
-Project scope is to automate tracking animal populations and poaching in the wild. Utilizing deep learning techniques, we want to understand whether it is possible to achieve a manual survey accuracy (79%) for leopards. We will identify leopards based on distinctive features and flag untracked or out of distribution leopards in an unsupervised setting.
+Our project scope was to automate the tracking of animal populations and poaching in the wild. Utilizing deep learning techniques, we want to understand whether it is possible to achieve a manual survey accuracy (79%) for leopards. We will identify leopards based on distinctive features and flag untracked or out-of-distribution leopards in an unsupervised setting.
 
 <img src="images/leop.png?raw=true"/>
 
@@ -22,7 +22,7 @@ Project scope is to automate tracking animal populations and poaching in the wil
 [Github](https://github.com/vishpillai123/w266_aes) | <a href="https://github.com/vishpillai123/w266_aes/blob/main/A%20Two-stage%20Deep%20Neural%20Network%20for%20Automated%20Essay%20Scoring.pdf"> Paper</a>
 
 #### Problem Statement
-Currently, the assessment of essays is extremely time consuming and expensive as teachers spend hours on grading essays individually. Automated essay scoring (AES) can help to increase time efficiency, while also reducing cost and potential grading biases.
+The assessment of essays can be extremely time-consuming and expensive as teachers spend hours grading essays individually. Automated essay scoring (AES) can help reduce cost and potential grading biases and improve time efficiency.
 
 Our project aims to develop AES by using BERT base and BERT-LSTM models to observe whether an RNN layer is needed for an effective two-stage learning framework.
 
@@ -60,7 +60,7 @@ Given a dataset of 15,120 training samples and 565,892 test samples, predict the
 
 #### Problem Statement
 
-In November 2020, our statistics team attempted to model and understand the spread of the global covid-19 pandemic. Utilizing a dataset of the 50 states in the US, we wanted to develop a regression outlining part of the causal chain of virus spread and casaulties. Though the correlation between cases and deaths was undeniable, the lack of data for ICU capacity, healthcare access, and general population health contributed to the difficulty of studying deaths. Instead, we outlined a regression for the predictors of cases across the states.
+In November 2020, our statistics team attempted to model and understand the spread of the global COVID-19 pandemic. Utilizing a dataset of the 50 states in the US, we wanted to develop a regression outlining part of the causal chain of virus spread and casualties. Though the correlation between cases and deaths was undeniable, the lack of data on ICU capacity, healthcare access, and general population health contributed to the difficulty of studying deaths. Instead, we outlined a regression for the predictors of cases across the states.
 
 <img src="images/covid_map.png?raw=true"/>
 
